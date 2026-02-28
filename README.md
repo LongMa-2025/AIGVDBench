@@ -103,7 +103,7 @@ The dataset split files are provided in the [`./data_splits/`](./data_splits/) d
 
 ## 🧠 Pretrained Weights
 
-The pretrained model weights **will be released on Hugging Face(https://huggingface.co/datasets/AIGVDBench/AIGVDBench)** to support reproducible research and further benchmarking.
+The pretrained model weights **will be released on [Hugging Face](https://huggingface.co/datasets/AIGVDBench/AIGVDBench)** to support reproducible research and further benchmarking.
 
 ---
 
